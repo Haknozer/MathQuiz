@@ -1,0 +1,7 @@
+C:\Users\hakan\OneDrive\Masaüstü\math\MathQuiz.exe
+C:\Users\hakan\OneDrive\Masaüstü\math\MathQuiz.dll
+C:\Users\hakan\OneDrive\Masaüstü\math\MathQuiz.deps.json
+C:\Users\hakan\OneDrive\Masaüstü\math\MathQuiz.runtimeconfig.json
+C:\Users\hakan\OneDrive\Masaüstü\math\MathQuiz.pdb
+C:\Users\hakan\OneDrive\Masaüstü\math\aa-DJ\MathQuiz.resources.dll
+C:\Users\hakan\OneDrive\Masaüstü\math\aa\MathQuiz.resources.dll

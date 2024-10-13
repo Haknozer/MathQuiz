@@ -1,0 +1,31 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MathQuiz/1.0.0": {
+        "runtime": {
+          "MathQuiz.dll": {}
+        },
+        "resources": {
+          "aa-DJ/MathQuiz.resources.dll": {
+            "locale": "aa-DJ"
+          },
+          "aa/MathQuiz.resources.dll": {
+            "locale": "aa"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MathQuiz/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
